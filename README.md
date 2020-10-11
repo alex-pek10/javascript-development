@@ -1,14 +1,14 @@
 # Modern JS Projects
 
-> These are the main projects
+> These are the projects
 
-- Tasklist: DOM, Local Storage
-- Loan Calculator: DOM
-- Number Guesser: DOM, Local Storage
-- Booklist: OOP
-- EasyHttp3: Ajax, Fetch, Async/Await
-- Github Finder: API
-- WeatherJS: API
-- Profile Scroller: Generators
-- Tracalorie: Module Pattern
-- Microposts: Webpack & Modules
+1. Tasklist: DOM, Local Storage
+2. Loan Calculator: DOM
+3. Number Guesser: DOM, Local Storage
+4. Booklist: OOP, Local Storage
+5. EasyHttp3: Ajax, Fetch, Async/Await
+6. Github Finder: API
+7. WeatherJS: API
+8. Profile Scroller: Generators
+9. Tracalorie: Module Pattern
+10. Microposts: Webpack & Modules
