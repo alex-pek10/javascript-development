@@ -21,6 +21,13 @@
       crossorigin="anonymous"
     />
 
+    <!-- Embedded CSS because it's so small -->
+    <style>
+      #loading, #results {
+        display: none;
+      }
+    </style>
+
     <title>Loan Calculator</title>
   </head>
   <body class="bg-dark">
@@ -88,7 +95,7 @@
             </form>
             <!-- LOADER -->
             <div id="loading">
-              <!-- <img src="img/loading.gif" alt="loading"> -->
+              <img src="img/loading.gif" alt="loading">
             </div>
             <!-- RESULTS -->
             <div id="results" class="mt-5">
